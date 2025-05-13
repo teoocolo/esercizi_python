@@ -73,9 +73,9 @@ while True:
 
 
 
-libro1=Libro(1, "a", "a", 2020)
-biblioteca.aggiungi_libro(libro1)
-biblioteca.elenco_libri()
-print(biblioteca.cerca_libro(1))
+#libro1=Libro(1, "a", "a", 2020)
+#biblioteca.aggiungi_libro(libro1)
+#biblioteca.elenco_libri()
+#print(biblioteca.cerca_libro(1))
         
     
